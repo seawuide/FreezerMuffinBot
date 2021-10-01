@@ -1,2 +1,2 @@
 # FreezerMuffinBot
-a discord bot for my friends lol
+a idk just a discord bot i use with my friends ig
